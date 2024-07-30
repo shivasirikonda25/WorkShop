@@ -2,7 +2,7 @@ import java.util.*;
 public class Cart
 {
     Scanner sc=new Scanner(System.in);
-     public void addFootWear(List<Products> l)
+     public void addProduct(List<Products> l)
      {
          System.out.println("enter the product name :");
          Scanner sc=new Scanner(System.in);
